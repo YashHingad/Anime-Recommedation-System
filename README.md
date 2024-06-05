@@ -4,15 +4,4 @@ This data set contains information on user preference data from 73,516 users on 
 
 
 
-Data Id 📋
-Anime Dataset
-This dataset is named anime. The dataset contains a set of 12,294 records under 7 attributes:
 
-Column Name	Description
-anime_id	myanimelist.net's unique id identifying an anime.
-name	full name of anime.
-genre	comma separated list of genres for this anime.
-type	movie, TV, OVA, etc.
-episodes	how many episodes in this show. (1 if movie).
-rating	average rating out of 10 for this anime.
-members	number of community members that are in this anime's "group".
